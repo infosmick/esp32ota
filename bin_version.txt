@@ -1,3 +1,123 @@
 1.8
-Rigo2
-Rigo3
+KAM v.%u.%s (C) Copyright 2022 by Curci
+Trace off
+Trace on
+View off
+View on
+Debug off
+Debug on
+Extime off
+Extime on
+Reboot
+Reset
+Press Ctrl_I for Info
+test error message
+lexicon
+'%s' is not defined
+code %u does not exist in '%s'
+file '%s' not found
+file '%s' open fail
+Error: %s
+Warning: %s
+# %s %s %s
+@ %s %s %s
+* %s %s %s
+Working layout "%s"
+incorrect '%s' string
+incorrect '%s' array
+incorrect '%s' object
+incorrect '%s' number
+expected '"' at end of string
+expected ']' at end of array '%s'
+expected '}' at end of object
+expected ':' after key in object
+expected value after ':' in object
+expected key:value in object
+expected value in array
+incorrect '%s' value
+expected value after '%s'
+expected key after '%s'
+expected instruction after '%s'
+expected expression after '%s'
+expected operandn after '%s'
+expected code after '@'
+data stack empty
+data stack overflow
+operator stack empty
+operator stack overflow
+undefined operator '%s'
+ctrl-key cannot be set
+vocabulary cannot be set
+word cannot be set
+expected capital letter after '^'
+expected logic value 'true' or 'false'
+object
+array
+string
+number
+logic
+null
+invalid data type
+undefined '%s' code
+undefined '%s' word
+incorrect syntax
+invalid '%s' language
+invalid '%s' code
+Input/Output words
+Info %d/%d
+Archived layouts:
+Archived sketches:
+Store layout "%s"
+Save sketch "%s"
+Working sketch "%s"
+Archived layout "%s"
+Archived sketch "%s"
+Archived file "%s"
+Archived sketch "%s" deleted
+Archived layout "%s" deleted
+Archived file "%s" deleted
+All archived sketches deleted
+All archived layouts deleted
+extra ignored (%s)
+New current sketch "%s"
+Zap current layout "%s"
+Load archived layout "%s"
+Open archived sketch "%s"
+undefined sketch "%s"
+undefined file "%s"
+undefined layout "%s"
+%s is an object
+%s is an array
+%s is a string
+%s is a number
+%s is a logic value
+%s is nothing
+word '%s' cannot be set
+'%s' is a reserved name
+Wi-Fi disconnected from "%s"
+Wi-Fi connecting ...
+Wi-Fi connecting retrying every %us ...
+Wi-Fi connected to "%s" with IP %s in %u ms
+MQTT disconnected from "%s:%u"
+MQTT connecting to "%s:%u" ...
+MQTT connecting to "%s:%u" retrying every %us ...
+MQTT connected to "%s:%u" in %u ms
+undefined topic for MQTT sharing
+MQTT fail to publish '%s'
+Added line '%s' to temporary file
+Archived temporary file renamed to "%s"
+Wi-Fi SSID is not set
+unable to rename '%s' to '%s'
+CRC failed CRC for file '%s'
+parser stack empty
+parser stack overflow
+%s is not a string
+Wi-Fi AP configured '%s'
+MQTT unsubscribe from topic '%s'
+MQTT subscribe to topic '%s'
+to send disable downshare
+Upload archived layout '%s'
+Connect
+Disconnect
+JSON '%s' cannot be retained
+------
